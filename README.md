@@ -19,6 +19,6 @@ Dived deep into the data to draw insights regarding two major phenomenons:
  
  <h4>Trend of Ridership from Jan 2020- May 2020</h4>
  
- <img src="Trend in Ridership 2020.png">
+ <img src="Trend in ridership.png">
 
 Link to Tableau workbook: https://public.tableau.com/profile/vaishali.tanwar4784#!/vizhome/CitibikeAnalysis_15931197458450/Trendofridershipobserverdmonth-wise?publish=yes

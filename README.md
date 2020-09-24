@@ -23,6 +23,11 @@ Dived deep into the data to draw insights regarding two major phenomenons:
  
  <ul>
  <li>The ridership has increased from 1,240,596 in January 2020 to 1,487,890 in May 2020, although we see that the week wise ridership has decreased from first week of January to last week of May.</li>
+ 
+ <li>Although we see a major drop in the number of rides taken in the month of April, we see that the average trip duration has been increasing. Major drop in the month of April can be due to the lockdown imposed as a safety measure to protect from COVID 19.</li>
+ 
+ </ul>
+
 
 
 

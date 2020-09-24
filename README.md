@@ -32,7 +32,7 @@ Dived deep into the data to draw insights regarding two major phenomenons:
 
  
  </ul>
- <br>
+ 
  <h4>Top 10 stations for starting a journey</h4>
  <img src="Popular 10 starting stations.png">
   <ul>
@@ -53,8 +53,8 @@ Dived deep into the data to draw insights regarding two major phenomenons:
  <li>A large number of riders start their journey from the stations listed above and their popularity can be seen in each month from January 2020 to May 2020.
  </li>
 <li>The ridership at stations Perishing Square north and 8 Ave & W 31 St show a significant drop. The ridership count at Perishing Square North drop from 10,734 in Jan to 2,838 in May but that is because of the COVID 19 lockdown imposed. But the numbers have already picked up from 1,492 in April to 2,838 in May still making it most sought after due to its location near Grand Central Terminal as the lockdown rules have been relaxed. A similar situation can be seen in case of 8 Ave & W31 St.</li>
-o	The availability of maximum number of bikes at the above listed stations makes them a popular choice.
-o	The subscribers (annual members) who form major chunk of riders using the Citi Bike can be seen contributing a large percentage of people starting their journey from the above stations. This shows that regular riders often start their journeys from these stations.
+<li>The availability of maximum number of bikes at the above listed stations makes them a popular choice.</li>
+<li>The subscribers (annual members) who form major chunk of riders using the Citi Bike can be seen contributing a large percentage of people starting their journey from the above stations. This shows that regular riders often start their journeys from these stations.</li>
 
 
  </ul>

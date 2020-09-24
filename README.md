@@ -32,6 +32,9 @@ Dived deep into the data to draw insights regarding two major phenomenons:
 
  
  </ul>
+ <br>
+ 
+ <img src="Popular 10 starting stations.png">
 
 
 

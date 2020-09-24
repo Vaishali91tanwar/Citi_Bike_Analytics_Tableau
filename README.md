@@ -1,5 +1,10 @@
 # Citi_Bike_Analytics_Tableau
- Data Source: https://www.citibikenyc.com/system-data
+<img src="citi_bike.jpg">
+
+<h3>Objective:</h3>
+To aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena. 
+
+Data Source: https://www.citibikenyc.com/system-data
  
  Analysed January 2020-May 2020 New York Citi Bike Data using Tableau. 
  Dived deep into the data to draw insights regarding two major phenomenons:

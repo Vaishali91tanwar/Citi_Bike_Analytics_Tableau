@@ -35,7 +35,22 @@ Dived deep into the data to draw insights regarding two major phenomenons:
  <br>
  <h4>Top 10 stations for starting a journey</h4>
  <img src="Popular 10 starting stations.png">
+  <ul>
+ <li>The top 10 stations for starting a journey are:
+  
+      1.	Perishing Square North
+      2.	W 21 St and 6 Avenue
+      3.	E 17 St and Broadway
+      4.	West St and Chambers St
+      5.	Broadway and W 60 St
+      6.	Broadway and E 22 St
+      7.	12 Ave and W 40 St
+      8.	1 Ave and E 68 St
+      9.	Christopher St and Greenwich St
+      10.	8 Ave and W 31 St
+ </li>
 
+ </ul>
 
 
 
